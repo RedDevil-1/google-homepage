@@ -43,6 +43,11 @@ button {
   align-self: center;
 }
 .search {
+  background-image: url("outline_search_black_24dp.png");
+  background-repeat: no-repeat;
+  background-position-x: 10px;
+  background-position-y: 5px;
+  background-size: 30px;
   outline: none;
   width: 60%;
   padding-left: 5%;
@@ -94,6 +99,10 @@ button {
   align-items: center;
   background-color: #f2f2f2;
   color: #5a5a5a;
+}
+.apps {
+  height: 100%;
+  width: 80%;
 }
 .footer {
   display: flex;
