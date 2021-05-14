@@ -29,6 +29,7 @@ button {
 }
 .signIn:hover {
   background-color: rgb(113, 156, 238);
+  cursor: pointer;
 }
 
 .main {
@@ -46,7 +47,7 @@ button {
   background-image: url("outline_search_black_24dp.png");
   background-repeat: no-repeat;
   background-position-x: 10px;
-  background-position-y: 5px;
+  background-position-y: 5pxa;
   background-size: 30px;
   outline: none;
   width: 60%;
